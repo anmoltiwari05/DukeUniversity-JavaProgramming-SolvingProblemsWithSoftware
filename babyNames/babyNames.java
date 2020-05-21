@@ -2,7 +2,7 @@
 /**
  * Write a description of babyNames here.
  * 
- * @author (your name) 
+ * @author Anmol Tiwari
  * @version (a version number or a date)
  */
 import edu.duke.*;

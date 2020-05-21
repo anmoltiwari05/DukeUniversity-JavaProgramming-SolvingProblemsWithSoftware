@@ -2,7 +2,7 @@
 /**
  * Write a description of count here.
  * 
- * @author (your name) 
+ * @author Anmol Tiwari 
  * @version (a version number or a date)
  */
 public class count {

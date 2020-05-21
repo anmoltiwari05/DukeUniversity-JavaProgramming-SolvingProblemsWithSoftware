@@ -2,7 +2,7 @@
 /**
  * Write a description of Part1 here.
  * 
- * @author (your name) 
+ * @author Anmol Tiwari 
  * @version (a version number or a date)
  */
 public class Part1 {

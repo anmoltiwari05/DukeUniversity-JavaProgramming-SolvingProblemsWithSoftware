@@ -2,7 +2,7 @@
 /**
  * Write a description of assignment here.
  * 
- * @author (your name) 
+ * @author Anmol Tiwari
  * @version (a version number or a date)
  */
 public class assignment {
